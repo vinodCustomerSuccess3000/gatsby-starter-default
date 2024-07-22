@@ -7,6 +7,7 @@
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
+//testing
 module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
